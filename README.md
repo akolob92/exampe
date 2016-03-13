@@ -1,1 +1,2 @@
-# exampe
+# example
+That's it
